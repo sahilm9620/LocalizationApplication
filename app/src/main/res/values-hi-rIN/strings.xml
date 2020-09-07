@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्थानीयकरण</string>
+    <string name="hello">नमस्ते दुनिया</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिन्दी</string>
+</resources>
